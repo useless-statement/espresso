@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>800</width>
-    <height>800</height>
+    <height>793</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -20,7 +20,7 @@
       <x>10</x>
       <y>0</y>
       <width>781</width>
-      <height>741</height>
+      <height>681</height>
      </rect>
     </property>
     <column>
@@ -58,6 +58,32 @@
       <string>объем упаковки (г)</string>
      </property>
     </column>
+   </widget>
+   <widget class="QPushButton" name="btn">
+    <property name="geometry">
+     <rect>
+      <x>690</x>
+      <y>710</y>
+      <width>93</width>
+      <height>28</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Новый пункт</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>720</y>
+      <width>461</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Чтобы редактировать пункт меню дважды щелкните по нужной строке.</string>
+    </property>
    </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
